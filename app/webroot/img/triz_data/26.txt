@@ -1,0 +1,19 @@
+26. Copying
+
+
+Instead of an unavailable, expensive, fragile object, use simpler and inexpensive copies.
+
+- Virtual reality via computer instead of an expensive vacation
+- Listen to an audio tape instead of attending a seminar.
+
+
+Replace an object, or process with optical copies.
+
+- Do surveying from space photographs instead of on the ground.
+- Measure an object by measuring the photograph.
+- Make sonograms to evaluate the health of a fetus, instead of risking damage by direct testing.
+
+
+If visible optical copies are already used, move to infrared or ultraviolet copies.
+
+- Make images in infrared to detect heat sources, such as diseases in crops, or intruders in a security system.

@@ -1,0 +1,7 @@
+36. Use phase Transformations
+
+
+Use phenomena occurring during phase transitions (e.g. volume changes, loss or absorption of heat, etc.).
+
+- Water expands when frozen, unlike most other liquids. Hannibal is reputed to have used this when marching on Rome a few thousand years ago. Large rocks blocked passages in the Alps. He poured water on them at night. The overnight cold froze the water, and the expansion split the rocks into small pieces which could be pushed aside.
+- Heat pumps use the heat of vaporization and heat of condensation of a closed thermodynamic cycle to do useful work.

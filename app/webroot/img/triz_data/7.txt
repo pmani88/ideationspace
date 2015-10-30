@@ -1,0 +1,17 @@
+7. Nesting
+
+
+Place one object inside another; place each object, in turn, inside the other.
+
+- Measuring cups or spoons
+- Russian dolls
+- Portable audio system (microphone fits inside transmitter, which fits inside amplifier case)
+
+
+Make one part pass through a cavity in the other.
+
+- Extending radio antenna
+- Extending pointer
+- Zoom lens
+- Seat belt retraction mechanism
+- Retractable aircraft landing gear stow inside the fuselage (also demonstrates Principle 15, Dynamism).

@@ -1,0 +1,26 @@
+18. Use Mechanical vibration/Oscillation
+
+
+Cause an object to oscillate or vibrate.
+
+- Electric carving knife with vibrating blades
+
+
+Increase its frequency (even up to the ultrasonic).
+
+- Distribute powder with vibration.
+
+
+Use an object's resonant frequency.
+
+- Destroy gall stones or kidney stones using ultrasonic resonance.
+
+
+Use piezoelectric vibrators instead of mechanical ones.
+
+- Quartz crystal oscillations drive high accuracy clocks.
+
+
+Use combined ultrasonic and electromagnetic field oscillations.
+
+- Mixing alloys in an induction furnace

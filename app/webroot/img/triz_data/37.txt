@@ -1,0 +1,8 @@
+37. Thermal expansion
+
+
+Use thermal expansion (or contraction) of materials.
+
+- Fit a tight joint together by cooling the inner part to contract, heating the outer part to expand, putting the joint together, and returning to equilibrium.
+If thermal expansion is being used, use multiple materials with different coefficients of thermal expansion.
+- The basic leaf spring thermostat: (2 metals with different coefficients of expansion are linked so that it bends one way when warmer than nominal and the opposite way when cooler.)

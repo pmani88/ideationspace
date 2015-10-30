@@ -1,0 +1,16 @@
+23. Use Feedback
+
+
+Introduce feedback (referring back, cross-checking) to improve a process or action.
+
+- Automatic volume control in audio circuits
+- Signal from gyrocompass is used to control simple aircraft autopilots.
+- Statistical Process Control (SPC) -- Measurements are used to decide when to modify a process. (Not all feedback systems are automated!)
+- Budgets --Measurements are used to decide when to modify a process.
+
+
+If feedback is already used, change its magnitude or influence.
+
+- Change sensitivity of an autopilot when within 5 miles of an airport.
+- Change sensitivity of a thermostat when cooling vs. heating, since it uses energy less efficiently when cooling.
+- Change a management measure from budget variance to customer satisfaction.

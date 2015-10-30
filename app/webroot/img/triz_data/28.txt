@@ -1,0 +1,18 @@
+28 Replace mechanical system
+
+
+Replace a mechanical means with a sensory (optical, acoustic, taste or smell) means.
+
+- Replace a physical fence to confine a dog or cat with an acoustic *fence* (signal audible to the animal).
+- Use a bad smelling compound in natural gas to alert users to leakage, instead of a mechanical or electrical sensor.
+
+
+Use electric, magnetic and electromagnetic fields to interact with the object.
+- To mix 2 powders, electrostatically charge one positive and the other negative. Either use fields to direct them, or mix them mechanically and let their acquired fields cause the grains of powder to pair up.
+
+
+Change from static to movable fields, from unstructured fields to those having structure.
+
+- Early communications used omnidirectional broadcasting. We now use antennas with very detailed structure of the pattern of radiation.
+Use fields in conjunction with field-activated (e.g. ferromagnetic) particles.
+- Heat a substance containing ferromagnetic material by using varying magnetic field. When the temperature exceeds the Curie point, the material becomes paramagnetic, and no longer absorbs heat.

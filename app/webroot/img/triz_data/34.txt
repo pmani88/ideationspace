@@ -1,0 +1,14 @@
+34. Rejection and Regeneration
+
+
+Make portions of an object that have fulfilled their functions go away (discard by dissolving, evaporating, etc.) or modify these directly during operation.
+
+- Use a dissolving capsule for medicine.
+- Sprinkle water on cornstarch-based packaging and watch it reduce its volume by more than 1000X!
+- Ice structures: use water ice or carbon dioxide (dry ice) to make a template for a rammed earth structure, such as a temporary dam. Fill with earth, then, let the ice melt or sublime to leave the final structure.
+
+
+Conversely, restore consumable parts of an object directly in operation.
+
+- Self-sharpening lawn mower blades
+- Automobile engines that give themselves a *tune up* while running (the ones that say *100,000 miles between tune ups*)

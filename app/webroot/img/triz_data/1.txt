@@ -1,0 +1,20 @@
+1. Divide and Conquer
+
+
+Divide an object into independent parts.
+
+- Replace mainframe computer by personal computers.
+- Replace a large truck by a truck and trailer.
+- Use a work breakdown structure for a large project.
+
+
+Make an object easy to disassemble.
+
+- Modular furniture
+- Quick disconnect joints in plumbing
+
+
+Increase the degree of fragmentation or segmentation.
+
+- Replace solid shades with Venetian blinds.
+- Use powdered welding metal instead of foil or rod to get better penetration of the joint.

@@ -1,0 +1,17 @@
+15. Increase degree of flexibility
+
+
+Allow (or design) the characteristics of an object, external environment, or process to change to be optimal or to find an optimal operating condition.
+
+- Adjustable steering wheel (or seat, or back support, or mirror position...)
+
+
+Divide an object into parts capable of movement relative to each other.
+
+- The *butterfly* computer keyboard, (also demonstrates Principle 7, *Nested doll*.)
+
+
+If an object (or process) is rigid or inflexible, make it movable or adaptive.
+
+- The flexible boroscope for examining engines
+- The flexible sigmoidoscope, for medical examination

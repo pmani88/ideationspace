@@ -1,0 +1,8 @@
+32. Color changes
+
+
+Change the color of an object or its external environment.
+
+- Use safe lights in a photographic darkroom.
+Change the transparency of an object or its external environment.
+- Use photolithography to change transparent material to a solid mask for semiconductor processing. Similarly, change mask material from transparent to opaque for silk screen processing.

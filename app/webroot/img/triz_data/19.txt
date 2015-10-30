@@ -1,0 +1,18 @@
+19. Periodic action
+
+
+Instead of continuous action, use periodic or pulsating actions.
+
+- Hitting something repeatedly with a hammer
+- Replace a continuous siren with a pulsed sound.
+
+
+If an action is already periodic, change the periodic magnitude or frequency.
+
+- Use Frequency Modulation to convey information, instead of Morse code.
+- Replace a continuous siren with sound that changes amplitude and frequency.
+
+
+Use pauses between impulses to perform a different action.
+
+- In cardio-pulmonary respiration (CPR) breathe after every 5 chest compressions.

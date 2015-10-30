@@ -1,0 +1,12 @@
+9. A Priori Counter action
+
+
+If it will be necessary to do an action with both harmful and useful effects, this action should be replaced with anti-actions to control harmful effects.
+
+- Buffer a solution to prevent harm from extremes of pH.
+
+
+Create beforehand stresses in an object that will oppose known undesirable working stresses later on.
+
+- Pre-stress rebar before pouring concrete.
+- Masking anything before harmful exposure: Use a lead apron on parts of the body not being exposed to X-rays. Use masking tape to protect the part of an object not being painted

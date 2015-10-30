@@ -1,0 +1,13 @@
+10. Pre-emptive action
+
+
+Perform, before it is needed, the required change of an object (either fully or partially).
+
+- Pre-pasted wall paper
+- Sterilize all instruments needed for a surgical procedure on a sealed tray.
+
+
+Pre-arrange objects such that they can come into action from the most convenient place and without losing time for their delivery.
+
+- Kanban arrangements in a Just-In-Time factory
+- Flexible manufacturing cell

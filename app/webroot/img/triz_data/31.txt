@@ -1,0 +1,9 @@
+31. Porous materials
+
+
+Make an object porous or add porous elements (inserts, coatings, etc.).
+
+- Drill holes in a structure to reduce the weight.
+If an object is already porous, use the pores to introduce a useful substance or function.
+- Use a porous metal mesh to wick excess solder away from a joint.
+- Store hydrogen in the pores of a palladium sponge. (Fuel *tank* for the hydrogen car--much safer than storing hydrogen gas)

@@ -1,0 +1,7 @@
+16. Excessive or deficient action
+
+
+If 100 percent of an object is hard to achieve using a given solution method then, by using 'slightly less' or 'slightly more' of the same method, the problem may be considerably easier to solve.
+
+- Over spray when painting, then remove excess. (Or, use a stencil--this is an application of Principle 3, Local Quality and Principle 9, Preliminary anti-action).
+- Fill, then *top off* when filling the gas tank of your car.

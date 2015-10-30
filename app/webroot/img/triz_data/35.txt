@@ -1,0 +1,22 @@
+35. Transform parameters
+
+
+Change an object's physical state (e.g. to a gas, liquid, or solid.)
+
+- Freeze the liquid centers of filled candies, then dip in melted chocolate, instead of handling the messy, gooey, hot liquid.
+- Transport oxygen or nitrogen or petroleum gas as a liquid, instead of a gas, to reduce volume.
+
+
+Change the concentration or consistency.
+
+- Liquid hand soap is concentrated and more viscous than bar soap at the point of use, making it easier to dispense in the correct amount and more sanitary when shared by several people.
+Change the degree of flexibility.
+- Use adjustable dampers to reduce the noise of parts falling into a container by restricting the motion of the walls of the container.
+- Vulcanize rubber to change its flexibility and durability.
+
+
+Change the temperature.
+
+- Raise the temperature above the Curie point to change a ferromagnetic substance to a paramagnetic substance.
+- Raise the temperature of food to cook it. (Changes taste, aroma, texture, chemical properties, etc.)
+- Lower the temperature of medical specimens to preserve them for later analysis.

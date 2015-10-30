@@ -1,0 +1,15 @@
+25. Generate Self-service
+
+
+Make an object serve itself by performing auxiliary helpful functions
+
+- A soda fountain pump that runs on the pressure of the carbon dioxide that is used to *fizz* the drinks. This assures that drinks will not be flat, and eliminates the need for sensors.
+- Halogen lamps regenerate the filament during use--evaporated material is redeposited.
+- To weld steel to aluminum, create an interface from alternating thin strips of the 2 materials. Cold weld the surface into a single unit with steel on one face and copper on the other, then use normal welding techniques to attach the steel object to the interface, and the interface to the aluminum. (This concept also has elements of Principle 24, Intermediary, and Principle 4, Asymmetry.)
+
+
+Use waste resources, energy, or substances.
+
+- Use heat from a process to generate electricity: *Co-generation*.
+- Use animal waste as fertilizer.
+- Use food and lawn waste to create compost.

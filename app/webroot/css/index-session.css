@@ -1,0 +1,9 @@
+#top{
+	text-align: center;
+	width: 100%;
+}
+
+#top h1{
+	font-size: 2em;
+	font-weight: bold;
+}

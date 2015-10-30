@@ -1,0 +1,44 @@
+#auto_pop_soln{
+	margin: 10px 0 0;
+	padding: 0;
+}
+
+#auto_pop_soln  ul{
+	margin: 0;
+	padding: 0;
+}
+
+#auto_pop_soln  ul ul{
+	background-color: #fff;
+	border: 1px solid #000;
+	z-index: 100;
+	padding-left:10px;
+}
+
+#auto_pop_soln  li{
+	list-style: none;
+	float: left;
+	position: relative;
+}
+
+#auto_pop_soln  ul ul li{
+	list-style: disc;
+}
+
+#auto_pop_soln ul li a {
+	text-decoration: none;
+	width: 150px;
+	/*height: 30px;*/
+	display: block;
+	padding: 3px 0;
+}
+
+#auto_pop_soln ul ul{
+	position: absolute;
+	display: none;
+	font-size: 12px;
+}
+
+#auto_pop_soln ul li:hover ul {
+	display: block;
+}

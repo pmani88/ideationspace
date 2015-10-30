@@ -1,0 +1,1 @@
+Use gas and/or liquid parts of an object instead of solid parts (e.g. inflatable filled with liquid, air cushion, hydraulic, hydro-reactive). Since gas and liquid are metabolically cheap resources they are commonly used for skeletal functions (where water can take compressive pressure), flotation devices (teleost fish, Nautilus, Sepia, etc.) and locomotion (’jetting’ squid).

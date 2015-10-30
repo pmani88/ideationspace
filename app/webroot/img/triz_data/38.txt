@@ -1,0 +1,15 @@
+38. Accelerate Oxidation
+
+
+Replace common air with oxygen-enriched air.
+
+- Scuba diving with Nitrox or other non-air mixtures for extended endurance
+Replace enriched air with pure oxygen.
+- Cut at a higher temperature using an oxy-acetylene torch.
+- Treat wounds in a high pressure oxygen environment to kill anaerobic bacteria and aid healing.
+Expose air or oxygen to ionizing radiation.
+- No specific example
+Use ionized oxygen.
+- Ionize air to trap pollutants in an air cleaner.
+Replace ozonized (or ionized) oxygen with ozone.
+- Speed up chemical reactions by ionizing the gas before use.

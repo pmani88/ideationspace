@@ -1,0 +1,7 @@
+33. Homogeneity
+
+
+Make objects interacting with a given object of the same material (or material with identical properties).
+
+- Make the container out of the same material as the contents, to reduce chemical reactions.
+- Make a diamond cutting tool out of diamonds.

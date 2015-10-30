@@ -1,0 +1,20 @@
+13. Reverse Action
+
+
+Invert the action(s) used to solve the problem (e.g. instead of cooling an object, heat it).
+
+- To loosen stuck parts, cool the inner part instead of heating the outer part.
+- Bring the mountain to Mohammed, instead of bringing Mohammed to the mountain.
+
+
+Make movable parts (or the external environment) fixed, and fixed parts movable.
+
+- Rotate the part instead of the tool.
+- Moving sidewalk with standing people.
+- Treadmill (for walking or running in place.)
+
+
+Turn the object (or process) 'upside down'.
+
+- Turn an assembly upside down to insert fasteners (especially screws).
+- Empty grain from containers (ship or railroad) by inverting them.

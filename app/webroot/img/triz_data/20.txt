@@ -1,0 +1,12 @@
+20. Steady useful actions
+
+
+Carry on work continuously; make all prts of an object work at full load, all the time.
+
+- Flywheel (or hydraulic system) stores energy when a vehicle stops, so the motor can keep running at optimum power.
+- Run the bottleneck operations in a factory continuously, to reach the optimum pace. (From theory of constraints, or takt time operations)
+
+
+Eliminate all idle or intermittent actions or work.
+
+- Print during the return of a printer carriage--dot matrix printer, daisy wheel printers, inkjet printers.

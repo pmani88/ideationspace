@@ -1,0 +1,8 @@
+2. Extract as needed
+
+
+Separate an interfering part or property from an object, or single out the only necessary part (or property) of an object.
+
+- Locate a noisy compressor outside the building where compressed air is used.
+- Use fiber optics or a light pipe to separate the hot light source from the location where light is needed.
+- Use the sound of a barking dog, without the dog, as a burglar alarm.

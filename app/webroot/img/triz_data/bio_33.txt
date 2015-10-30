@@ -1,0 +1,1 @@
+Objects interacting with the main object should be of same material (or material with identical properties). Many nests are made from the surrounding material - bird’s nests (twigs, branches), solitary bee and termite nests (mud). The materials from which an organism is made are very inhomogeneous in texture, but basically only proteins and polysaccharides with added ceramic.

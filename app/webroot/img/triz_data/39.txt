@@ -1,0 +1,8 @@
+39. Inert environment
+
+
+Replace a normal environment with an inert one.
+
+- Prevent degradation of a hot metal filament by using an argon atmosphere.
+Add neutral parts, or inert additives to an object.
+- Increase the volume of powdered detergent by adding inert ingredients. This makes it easier to measure with conventional tools.

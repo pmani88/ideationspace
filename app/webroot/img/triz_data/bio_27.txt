@@ -1,0 +1,3 @@
+Replace an expensive object with a multiple of inexpensive objects, compromising certain qualities, such as service life.
+
+Many organisms reproduce at high rates producing less ’well designed’ individuals which can grow more quickly, reproduce younger, and utilise a more ephemeral habitat.
