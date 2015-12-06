@@ -17,9 +17,9 @@ property you input will be encrypted and inaccessible to anyone but yourself.</p
 <h3>Documentation</h3>
 
 <ul>
-	<li><a href='files/morphchartinfo/information.pdf'>What are morphological charts?</a></li>
-	<li><a href='files/how-to-use-tool.pdf'>How do I use the tool?</a></li>
-	<li><a href='files/nsf-grantees-poster.pdf'>Project Poster</a></li>
+	<li><a href="<?php echo $this->webroot; ?>files/morphchartinfo/information.pdf">What are morphological charts?</a></li>
+	<li><a href="<?php echo $this->webroot; ?>files/how-to-use-tool.pdf">How do I use the tool?</a></li>
+	<li><a href="<?php echo $this->webroot; ?>files/nsf-grantees-poster.pdf">Project Poster</a></li>
 
 </ul>
 
